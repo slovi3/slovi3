@@ -1,7 +1,7 @@
 <h1 align="center">FikretKaan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&width=750&size=22&lines=Solo+Builder;Silent+Hacker+Mindset;Shipping+Every+Day;BulkTrack+In+Progress..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&width=750&size=22&lines=Founder+in+Progress;Building+BulkTrack;Shipping+Every+Day;Relentless+Consistency" />
 </p>
 
 <p align="center">
