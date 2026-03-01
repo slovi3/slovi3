@@ -1,49 +1,52 @@
-<h1 align="center">Hello, I'm Fikret 👋</h1>
+<h1 align="center">FikretKaan</h1>
 
 <p align="center">
-  <b>Solo Builder</b><br/>
-  Building BulkTrack • 30 Days / 30 Projects<br/>
-  Clean systems & consistent execution
+  Solo Builder <br/>
+  Building BulkTrack • 30 Days / 30 Projects <br/>
+  <i>Clean systems & consistent execution</i>
 </p>
 
----
-
-## ▣ About me
-
-I’m focused on building structured, scalable systems — not just features.
-
-Currently working on:
-- **BulkTrack** (React)
-- Shipping **30 mini projects in 30 days**
-- Improving **English & problem solving**
-- Strengthening discipline & consistency
-
-I prefer execution over noise.
-
----
-
-## ▣ Tech Stack
-
-### ◈ Front-end
-React • JavaScript • HTML • CSS
-
-### ◈ Tools
-Git • GitHub
-
----
-
-## ▣ GitHub Stats
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=slovi3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
+<p align="center">
+────────────────────────────
 </p>
 
-<p>
-  <img height="150" src="https://github-readme-streak-stats.demolab.com?user=slovi3&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&dates=cccccc" />
+## ◈ About
+
+I build structured systems — not just features.  
+I ship daily, even when it's imperfect.
+
+**Currently focused on:**
+- BulkTrack (React)
+- 30 mini projects in 30 days
+- English & problem solving
+- Discipline & consistency
+
+<p align="center">
+────────────────────────────
 </p>
 
----
+## ◈ Tech Stack
 
-## ▣ Philosophy
+<p align="center">
+React • JavaScript • HTML • CSS • Git • GitHub
+</p>
 
+<p align="center">
+────────────────────────────
+</p>
+
+## ◈ Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=slovi3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff" />
+</p>
+
+<p align="center">
+────────────────────────────
+</p>
+
+## ◈ Philosophy
+
+<p align="center">
 Discipline builds what motivation never finishes.
+</p>
