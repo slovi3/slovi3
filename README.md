@@ -1,52 +1,45 @@
 <h1 align="center">FikretKaan</h1>
+<h3 align="center">Silent builder. Shipping daily. Growing 1% every day.</h3>
 
 <p align="center">
-  Solo Builder <br/>
-  Building BulkTrack • 30 Days / 30 Projects <br/>
-  <i>Clean systems & consistent execution</i>
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&width=650&lines=Building+in+silence;Consistency+is+my+weapon;Shipping+every+day;BulkTrack+under+construction" />
+</p>
+
+---
+
+## ⚔️ About
+
+- 🚀 Currently building: **BulkTrack**
+- 📦 Daily mini projects (2026 consistency challenge)
+- 💪 Discipline > Motivation
+- 🌑 I build. I don't announce.
+
+---
+
+## 🛠 Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,react" />
+</p>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slovi3&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-────────────────────────────
+  <img src="https://streak-stats.demolab.com?user=slovi3&theme=dark&hide_border=true" />
 </p>
 
-## ◈ About
+---
 
-I build structured systems — not just features.  
-I ship daily, even when it's imperfect.
+## 🧩 Philosophy
 
-**Currently focused on:**
-- BulkTrack (React)
-- 30 mini projects in 30 days
-- English & problem solving
-- Discipline & consistency
+> “Work in silence. Let consistency make the noise.”
 
 <p align="center">
-────────────────────────────
-</p>
-
-## ◈ Tech Stack
-
-<p align="center">
-React • JavaScript • HTML • CSS • Git • GitHub
-</p>
-
-<p align="center">
-────────────────────────────
-</p>
-
-## ◈ Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=slovi3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff" />
-</p>
-
-<p align="center">
-────────────────────────────
-</p>
-
-## ◈ Philosophy
-
-<p align="center">
-Discipline builds what motivation never finishes.
+  <img src="https://komarev.com/ghpvc/?username=slovi3&color=8B0000&style=flat-square" />
 </p>
