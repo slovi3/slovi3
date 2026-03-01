@@ -42,8 +42,9 @@
 ---
 
 ## ⚡ Activity
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=slovi3&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=slovi3&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=ffffff&dates=aaaaaa&hide_border=true" />
 </p>
 
 <p align="center">
