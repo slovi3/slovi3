@@ -1,7 +1,7 @@
 <h1 align="center">FikretKaan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&width=700&size=22&lines=Silent+Builder;Shipping+Every+Day;Consistency+Is+My+Weapon;BulkTrack+Loading..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&width=750&size=22&lines=Solo+Builder;Silent+Hacker+Mindset;Shipping+Every+Day;BulkTrack+In+Progress..." />
 </p>
 
 <p align="center">
@@ -10,12 +10,30 @@
 
 ---
 
-## ⚔️ Identity
+## 🕶 Who Am I?
 
-- 🚀 Building **BulkTrack**
-- 📦 Daily shipping discipline (2026 challenge)
-- 🧠 Focused on execution, not noise
-- 🌑 I build in silence.
+I don’t just write code.  
+I build systems.
+
+Obsessed with:
+- Discipline
+- Consistency
+- Shipping imperfect products
+- Becoming 1% better every day
+
+Currently focused on building **BulkTrack**  
+and releasing daily mini-projects publicly.
+
+I prefer execution over noise.
+
+---
+
+## ⚔️ Current Mission
+
+- 🚀 Launch BulkTrack v1
+- 📦 Ship daily projects (2026)
+- 🧠 Improve English & problem solving
+- 💪 Build strong body & strong mind
 
 ---
 
@@ -37,4 +55,5 @@
 
 ## 🧩 Philosophy
 
-> Discipline builds what motivation never finishes.
+> Discipline builds what motivation never finishes.  
+> Work in silence. Let consistency make the noise.
