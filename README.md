@@ -1,59 +1,54 @@
-<h1 align="center">FikretKaan</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&width=750&size=22&lines=Solo+Builder;Silent+Hacker+Mindset;Shipping+Every+Day;BulkTrack+In+Progress..." />
-</p>
+<img src="YOUR_AVATAR_LINK_HERE" width="140" height="140" style="border-radius:50%;" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=slovi3&color=8B0000&style=flat-square" />
-</p>
+# FikretKaan
+
+### **Solo Builder • Shipping Every Day**
+
+</div>
 
 ---
 
-## 🕶 Who Am I?
+## 👀 Who Am I?
 
-I don’t just write code.  
-I build systems.
+I don’t just write code — I build systems.
 
-Obsessed with:
-- Discipline
-- Consistency
-- Shipping imperfect products
-- Becoming 1% better every day
+**Focused on:**
+- Discipline & consistency  
+- Shipping imperfect products  
+- Becoming 1% better every day  
 
-Currently focused on building **BulkTrack**  
-and releasing daily mini-projects publicly.
-
-I prefer execution over noise.
+Right now I’m building **BulkTrack** and publishing **30 projects in 30 days**.
 
 ---
 
 ## ⚔️ Current Mission
 
-- 🚀 Launch BulkTrack v1
-- 📦 Ship daily projects (2026)
-- 🧠 Improve English & problem solving
+- 🚀 Launch **BulkTrack v1**
+- 📦 Ship **30 projects / 30 days**
+- 🧠 Improve English + problem solving
 - 💪 Build strong body & strong mind
 
 ---
 
-## 🛠 Core Stack
+## 🧰 Core Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,react&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github" />
 </p>
 
 ---
 
-## 📊 Activity
+## 📈 Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=slovi3&theme=dark&hide_border=true&ring=8B0000&fire=8B0000&currStreakLabel=8B0000" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=slovi3&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Philosophy
+## 🧠 Philosophy
 
 > Discipline builds what motivation never finishes.  
 > Work in silence. Let consistency make the noise.
